@@ -41,7 +41,7 @@ Brief findings of this project are:
 4. The United States has the most unicorns.
 5. Accel has funded the most unicorns.
 
-Please check `uc_analytical_results.pdf` for more details and meaningful discussion on query outputs and analytical results.
+Please check `Unicorn Companies Analysis.pdf` for more details and meaningful discussion on query outputs and analytical results.
 
 
 
